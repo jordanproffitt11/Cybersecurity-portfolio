@@ -6,11 +6,11 @@ Notes from TryHackMe's "Inside a Computer System" room — covers CPU, memory, O
 
 **CPU/architecture notes:**
 - Central Processing Unit
-- The "brain" of the computer that exectutes instructions
-- more CPU core improve multitasking
+- The "brain" of the computer that executes instructions
+- more CPU cores improve multitasking
 - ALU performs math and logic operations
 - Control Unit directs instructuction execution
-- cached stores frequently used data for faster access
+- cache stores frequently used data for faster access
 
 **Memory/OS notes:**
 - RAM is temporary (volatile) memory used by running programs
@@ -19,7 +19,7 @@ Notes from TryHackMe's "Inside a Computer System" room — covers CPU, memory, O
 - Virtual memory uses disk space when RAM is full
 
 **How this connects to security (e.g., exploitation, forensics, malware analysis):**
-- Able to recognize and undestand the function of various computing components
+- Able to recognize and understand the function of various computing components
 
 **What I struggled with:**
 - Identifying the exact location for placement of the components of a CPU
