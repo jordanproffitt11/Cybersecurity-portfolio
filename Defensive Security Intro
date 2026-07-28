@@ -7,7 +7,7 @@ Notes and write-ups from TryHackMe's Defensive Security introductory content.
 **Date completed:** 7/28/26
 
 **Summary:**
-- I was asked to investigate why an apprentice SOC analysts monitoring dashboard lit up
+- I was asked to investigate why an apprentice SOC analyst's monitoring dashboard lit up
 
 **Tools/techniques used:**
 - I identified which source IP address was generating the suspicious traffic
